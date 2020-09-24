@@ -1,0 +1,11 @@
+{
+  "name": "dicee",
+  "version": "1.0.0",
+  "description": "roll a dice to declare the winner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avinash M",
+  "license": "ISC"
+}
